@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T11:05:20.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lhs0LIxT-f5FXEFv8cI2" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T11:07:06.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TykgC-Sw41lRnIM8FziX" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1100" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,15 @@
             <mxPoint x="520" y="-90" as="sourcePoint" />
             <mxPoint x="580" y="-90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aRNhC4s9KzN8hOCHpL1d-21" value="Player Bow" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="344.99" y="309" as="sourcePoint" />
+            <mxPoint x="404.99" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aRNhC4s9KzN8hOCHpL1d-22" value="Enemy =&amp;gt;CloorFull Ballons" style="shape=umlBoundary;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="210" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
